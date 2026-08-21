@@ -31,3 +31,5 @@ This project is built and maintained entirely by an independent creator. There a
 * **Supporter Tier**: Unlocks standard custom themes, personalized system layouts, and priority developer build access.
 * **Pro Tier**: Unlocks advanced framework directories, diagnostic file utilities, and automated cleaning tools.
 * **Lifetime Unlimited**: Permanent full access to the complete toolbox pipeline, premium tech visual frameworks, deep registry adjustments, and advanced offline tracking tools.
+
+<img width="1370" height="1013" alt="236-20-Aug-26" src="https://github.com/user-attachments/assets/67ba7658-1f72-4811-a604-6e90a2e9a75a" />
